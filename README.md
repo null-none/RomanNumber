@@ -1,5 +1,5 @@
 # RomanNumber
-Arabic numerals to convert Roman numerals
+Java class for convert arabic numerals to roman numerals
 
 ### Example
 
