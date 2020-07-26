@@ -6,6 +6,9 @@
  * user guide available at https://docs.gradle.org/4.4.1/userguide/java_library_plugin.html
  */
 
+group = 'org.library'
+version = '1.0'
+
 // Apply the java-library plugin to add support for Java Library
 apply plugin: 'java-library'
 
@@ -26,4 +29,3 @@ dependencies {
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
 }
-

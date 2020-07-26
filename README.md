@@ -1,2 +1,14 @@
 # RomanNumber
 Arabic numerals to convert Roman numerals
+
+### Example
+
+```java
+
+Library convert = new Library();
+
+convert.RomanNumerals(1); // I
+convert.RomanNumerals(18); // XVIII
+convert.RomanNumerals(104); // CIV
+convert.RomanNumerals(250); // CCL
+```
